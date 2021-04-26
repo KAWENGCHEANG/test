@@ -1,0 +1,22 @@
+{
+    "name": "test",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "pxt-Motor": "github:waveshare/pxt-motor#7a0795114409e1c3246cec2e7ea2a20aeabb3c41"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
